@@ -1,3 +1,16 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Nithin%20Manupati&animation=fadeIn&fontColor=000000"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=Data+Engineer;ETL+Pipeline+Specialist;Big+Data+Solutions+Architect;AWS+Cloud+Expert" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=laharikarrotu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <a href="https://www.linkedin.com/in/lahari-karrotu/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahari-karrotu/"/></a>
+  </p>
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on ai medical form filler : fills.ai<br>👯 I’m looking to collaborate on developing healthcare AI <br>🌱 I’m currently learning boxing and chess<br>💬 Ask me about brain computer interface <br>⚡ I am a full stack developer
 
