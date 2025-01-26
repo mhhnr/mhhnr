@@ -6,7 +6,7 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=laharikarrotu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <a href="https://www.linkedin.com/in/lahari-karrotu/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahari-karrotu/"/></a>
+    <a href="https://www.linkedin.com/in/lahari-karrotu/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhhnr/"/></a>
   </p>
 </div>
 
